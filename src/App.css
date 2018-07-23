@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: #272727;
+  min-height: 100vh;
+  height: 100%;
+  padding: 0 20px;
+}
+
+.App-header {
+  padding: 20px;
+  color: #ffc600;
+  margin-bottom: 30px;
+  box-sizing: content-box;
+}
+
+.ui.dropdown.App-dropdown {
+  margin-bottom: 30px;
+  border: 2px solid cornflowerblue;
+}
+
+.ui.dropdown.App-dropdown:hover {
+  border: 2px solid red;
+}
+
+.ui.input.App-input {
+  margin: 20px 50px;
+}
+
+.ui.segment.App-segment {
+  background-color: #272727;
+}

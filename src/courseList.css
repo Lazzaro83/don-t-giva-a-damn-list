@@ -1,0 +1,26 @@
+.courseList {
+    background-color: #272727;
+    min-height: 100vh;
+    height: 100%;
+    padding: 0 20px;
+}
+
+.ui.header.courseList_header {
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid aquamarine;
+}
+
+.ui.relaxed.list .item.courseList_item {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.ui.segment.courseList_responseLink a {
+    color: #272727;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    line-height: 1.14285714em;
+    font-size: 1.71428571em;
+    text-align: center;
+}
